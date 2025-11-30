@@ -19,8 +19,7 @@
 
 <div align="center">
 
-![AI Chat Demo](https://via.placeholder.com/800x400/0F172A/38BDF8?text=✨+Modern+AI+Chat+Experience)
-
+![AI Chat Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-8A2BE2?style=for-the-badge&logo=netlify)](https://sajalchatgpt.netlify.app/)
 </div>
 
 > 🚀 **Experience the future of conversational AI** with this beautifully crafted ChatGPT clone that combines cutting-edge design with buttery-smooth performance.
